@@ -21,5 +21,5 @@ Here's the Parts List:
 
 Circuit Daigram
 
-<img src="img/circuit.jpg" width="100%" height="300"/>
+<img src="img/circuit.jpg" width="100%" height="350"/>
 
